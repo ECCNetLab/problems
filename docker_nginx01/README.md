@@ -28,3 +28,11 @@ docker run --name nginx -d -p 8080:80 nginx
 ```
 
 1. 上記コマンドだけでブラウザで`http://localhost:8080/`と検索し `hello, nginx` が表示されるようにしなさい。
+
+```sh
+docker stop nginx
+docker rm nginx
+docker rmi nginx
+```
+
+2. 問題01を解いたあとは上記コマンドで消しておく
