@@ -6,6 +6,7 @@
 
 * [スタティックルーティングをしてみよう](basic_routing01/README.md)
 * [ダイナミックルーティングをしてみよう](basic_routing02/README.md)
+* [VLANをしてみよう](basic_vlan01/README.md)
 
 ### 編集環境
 
