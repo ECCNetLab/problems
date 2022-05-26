@@ -24,10 +24,10 @@ LAMP構築
 - PHP
 
 - 必須コマンド 　
-- `su` #rootユーザーにログイン
-- `sudo`  #`sudo`を前につけると、rootユーザーで実行
-- `yum install [サービス名]`   でインストールコマンド  
-- ` systemctl [status or start or stop or restart ] [サービス名]`  でサービス操作
+  - `su` #rootユーザーにログイン
+  - `sudo`  #`sudo`を前につけると、rootユーザーで実行
+  - `yum install [サービス名]`   でインストールコマンド  
+  - `systemctl [status or start or stop or restart ] [サービス名]`  でサービス操作
 
 
 
