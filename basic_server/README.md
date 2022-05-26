@@ -18,6 +18,7 @@
 ### 手順
 LAMP構築
 - LAMPとは,Linux,Apache,MySQL,PHPの頭もじを合わせて略語で、オープンソースの人気の4つのサービスを合わせたもの
+- i[](basic_server.drawio)
 - Linux 
 - Apache 
 - MySQL
