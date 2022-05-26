@@ -49,4 +49,4 @@ googleで調べながら設定しなさい
 
 ### 手順
 
-- ヒント : firewall  , httpd.conf  , 
+- ヒント : firewall  , httpd.conf  
