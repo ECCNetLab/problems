@@ -1,6 +1,6 @@
 # Basic Routing BGP01 - ダイナミックルーティングをしてみよう（BGP）
 
-![](fig/basic_routing_bgp01.drawio.svg)
+![](fig/basic_routing03.drawio.svg)
 
 ## 問題 01
 
