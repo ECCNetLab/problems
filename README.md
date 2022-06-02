@@ -33,3 +33,4 @@
 
 - VSCode
   - Draw.io Integration プラグインを使用。
+- [VMをインストールしよう](VM_install/README.md)
