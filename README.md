@@ -6,17 +6,11 @@
 
 * [スタティックルーティングをしてみよう](basic_routing01/README.md)
 * [ダイナミックルーティングをしてみよう](basic_routing02/README.md)
+* [ダイナミックルーティング(BGP)をしてみよう](basic_routing_bgp01/README.md)
 * [VLANをしてみよう](basic_vlan01/README.md)
 * [DHCPをしてみよう](basic_dhcp01/README.md)
 * [VRRPをしてみよう](basic_vrrp01/README.md)
 * [LAMPを構築してみよう](basic_server/README.md)
-
-- [スタティックルーティングをしてみよう](basic_routing01/README.md)
-- [ダイナミックルーティングをしてみよう](basic_routing02/README.md)
-- [ダイナミックルーティング(BGP)をしてみよう](basic_routing_bgp01/README.md)
-- [VLAN をしてみよう](basic_vlan01/README.md)
-- [DHCP をしてみよう](basic_dhcp01/README.md)
-- [VRRP をしてみよう](basic_vrrp01/README.md)
 
 
 ## Advance - 発展
