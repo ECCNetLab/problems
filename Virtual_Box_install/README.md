@@ -1,15 +1,15 @@
-# Virtual box をインストールしよう
+# Virtual_box をインストールしよう
 
 
 ## Windows
-1. [Virtual Boxのホームページにアクセス](https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
+1. [Virtual_Boxのホームページにアクセス](https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
 2. 自分のOSに合わせたインストーラーを選択して、ダウンロード
 3. ダウンロードしたexeファイルを実行する
 4. Next→ Next → Next → Yes → Instal (確認画面が出る場合はインストール) → Finish  
 
 ## Mac
 
-1. [Virtual Boxのホームページにアクセス](https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
+1. [Virtual_Boxのホームページにアクセス](https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
 2. 自分のOSに合わせたインストーラーを選択して、ダウンロード
 3. ダウンロードしたDMGファイルを実行する
 4. `VirualBox.pkg`を開く
@@ -31,10 +31,10 @@ __*注意 10をしたタイミングでPCを再起動してないといけない
 2. .`iso`ファイルを選んでクリック *少し時間がかかります
 3. ![](fig/centos_iso.drawio.svg) 
 
-## VMの起動から、CentOSの設定
-1. VM起動後、新規ボタンを押す
+## Virtual_Boxの起動から、CentOSの設定
+1. Virtual_Box起動後、新規ボタンを押す
 2. 名前を入力`[Centos-network]`入力後,続きクリック
-3. メモリーサイズ`4096`に設定   **自分の好きな値でも良い*
+3. メモリーサイズ`4096`に設定   **自分の好きな値でも良い**
 4. ハードディスクは、`仮想ハードディスクを作成する`を選択後、作成をクリック
 5. ハードディスクのファイルタイプ`VDI`を選択
 6. `可変サイズ`を選択、続きクリック
@@ -44,7 +44,7 @@ __*注意 10をしたタイミングでPCを再起動してないといけない
 10. コントローラ:IDEの下が空になっているので、`空`をクリック、ディスクのボタンをクリックする
 11. 光学ディスクの選択・作成をクリック、ダウンロードした、isoファイルを選択して、OKを押す
 ![](fig/VM_setting.drawio.svg)
-__これで、設定は完了です、設定を閉じて、VMを起動しましょう__
+__これで、設定は完了です、設定を閉じて、Virtual_Boxを起動しましょう__
 
 
 
