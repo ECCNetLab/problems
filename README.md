@@ -33,4 +33,4 @@
 
 - VSCode
   - Draw.io Integration プラグインを使用。
-- [Virtual Boxをインストールしよう](Virtual_Box_install/README.md)
+- [Virtual Boxをインストールしよう](virtual_box_install/README.md)
