@@ -1,7 +1,7 @@
 # virtual_box をインストールしよう
 
 ## Windows
-1. [virtual_Boxのホームページにアクセス](https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
+1. [virtual_boxのホームページにアクセス](https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
 2. 自分のOSに合わせたインストーラーを選択して、ダウンロード
 3. ダウンロードしたexeファイルを実行する
 4. Next→ Next → Next → Yes → Instal (確認画面が出る場合はインストール) → Finish  
