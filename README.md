@@ -26,12 +26,8 @@
 * [NAT 問題（★★☆☆☆）](nat/README.md)
 
 
-
-  
-  
-
-
 ### 編集環境
 
 - VSCode
   - Draw.io Integration プラグインを使用。
+- [virtual_boxをインストールしよう](virtual_box_install/README.md)
