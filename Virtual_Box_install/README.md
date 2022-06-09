@@ -1,6 +1,5 @@
 # virtual_box をインストールしよう
 
-
 ## Windows
 1. [virtual_Boxのホームページにアクセス](https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
 2. 自分のOSに合わせたインストーラーを選択して、ダウンロード
@@ -9,7 +8,7 @@
 
 ## Mac
 
-1. [virtual_Boxのホームページにアクセス](https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
+1. [virtual_boxのホームページにアクセス](https://www.oracle.com/jp/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
 2. 自分のOSに合わせたインストーラーを選択して、ダウンロード
 3. ダウンロードしたDMGファイルを実行する
 4. `VirualBox.pkg`を開く
@@ -28,7 +27,7 @@ __*注意 10をしたタイミングでPCを再起動してないといけない
 ### basic問題では、CentOS7使用しています、そのためCentOSをダウンロードします
 
 1. [ダウンロードサイトを開く *理化学研究所のミラーサイト](http://ftp.riken.jp/Linux/centos/7.9.2009/isos/x86_64/)
-2. .`iso`ファイルを選んでクリック *少し時間がかかります
+2. `iso`ファイルを選んでクリック *少し時間がかかります
 3. ![](fig/centos_iso.drawio.svg) 
 
 ## virtual_Boxの起動から、CentOSの設定
@@ -51,7 +50,7 @@ __これで、設定は完了です、設定を閉じて、Virtual_Boxを起動�
 ## CentOSの設定
 #### #画面が最初すごい小さいので、設定のディスプレイを選択、スクリーンの表示倍率を自分に合った、数値まであげて合わせてください
 
-1. VMの起動ボタンを押します
+1. `virtual_box`の起動ボタンを押します
 2. 起動が、画面を一回クリックして、`Enter`
 3. 言語選択で,`日本語`を選択
 4. `日時と時刻`を`アジア/東京タイムゾーン`に設定
