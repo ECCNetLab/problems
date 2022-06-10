@@ -10,6 +10,8 @@
 * [VLANをしてみよう](basic_vlan01/README.md)
 * [DHCPをしてみよう](basic_dhcp01/README.md)
 * [VRRPをしてみよう](basic_vrrp01/README.md)
+* [ACLをしてみよう](basic_acl01/README.md)
+* [LAMPを構築してみよう](basic_server/README.md)
 * [LAMPを構築してみよう](basic_server01/README.md)
 
 
