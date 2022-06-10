@@ -12,6 +12,8 @@
 * [VRRPをしてみよう](basic_vrrp01/README.md)
 * [ACLをしてみよう](basic_acl01/README.md)
 * [LAMPを構築してみよう](basic_server/README.md)
+* [LAMPを構築してみよう](basic_server01/README.md)
+
 
 ## Advance - 発展
 
@@ -26,12 +28,8 @@
 * [NAT 問題（★★☆☆☆）](nat/README.md)
 
 
-
-  
-  
-
-
 ### 編集環境
 
 - VSCode
   - Draw.io Integration プラグインを使用。
+- [virtual_boxをインストールしよう](virtual_box_install/README.md)
