@@ -20,7 +20,8 @@
 雑多な問題を置いてます。</br>※ ★ は難易度(Difficult)です。
 例 ★★☆☆☆ = Level 2
 
-- [NAT 問題（★★☆☆☆）](nat/README.md)
+* [NAT 問題（★★☆☆☆）](nat/README.md)
+
 
 ### 編集環境
 
