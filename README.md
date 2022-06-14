@@ -6,7 +6,7 @@
 
 * [スタティックルーティングをしてみよう](basic_routing01/README.md)
 * [ダイナミックルーティングをしてみよう](basic_routing02/README.md)
-* [ダイナミックルーティング(BGP)をしてみよう](basic_routing_bgp01/README.md)
+* [ダイナミックルーティング(BGP)をしてみよう](basic_routing03/README.md)
 * [VLANをしてみよう](basic_vlan01/README.md)
 * [DHCPをしてみよう](basic_dhcp01/README.md)
 * [VRRPをしてみよう](basic_vrrp01/README.md)
@@ -26,6 +26,11 @@
   例★★☆☆☆ = Level 2
 
 * [NAT 問題（★★☆☆☆）](nat/README.md)
+
+
+
+  
+  
 
 
 ### 編集環境
