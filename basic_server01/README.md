@@ -1,4 +1,4 @@
-# Basic server-lamp
+# Basic server-lamp01
 
 ### #CentOSを使っています
 ## 問題01
