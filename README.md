@@ -39,3 +39,4 @@
   - Draw.io Integration プラグインを使用。
 - [virtual_boxをインストールしよう](virtual_box_install/README.md)
 - [Tera Termをインストールしよう](./teraterm_install/README.md)
+- [PacketTracerをインストールしよう](./packettracer_install/README.md)
