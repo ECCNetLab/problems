@@ -1,4 +1,4 @@
-# GitをダウンロードしてGitHubを使ってみよう
+# GitをダウンロードしてGitHubを使ってみファイル管理をしてみよう01
 
 ## Windows
 1. まず,[Gitをインストール](https://git-scm.com/download/win)する 
@@ -30,7 +30,4 @@
 6. `git config --global user.email "Your Email"`を打って`Git`にメールアドレスを登録します
 7. 登録確認のために`git config --global --list`を打って確認してください,登録して内容が表示されればOKです
 
-
-### GitHub 登録/ログイン
-1. [GitHub](https://github.co.jp/)のサイトで、アカウントを作成または、ログインしてください
-* `注意[` 就職なので`GitHub`のアカウントを見せる場合があるので、Idは自由ですが、変な名前は避けた方がい以下とおもいます。 `]`
+### 02に続きます
