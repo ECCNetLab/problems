@@ -13,6 +13,7 @@
 * [NATをしてみよう](basic_nat01/README.md)
 * [ACLをしてみよう](basic_acl01/README.md)
 * [LAMPを構築してみよう](basic_server01/README.md)
+* [LAMPをカスタムしてみよう](basic_server02/README.md)
 
 
 ## Advance - 発展
@@ -37,5 +38,6 @@
 - VSCode
   - Draw.io Integration プラグインを使用。
 - [virtual_boxをインストールしよう](virtual_box_install/README.md)
-
 - [Githubを導入しよう](git_install/README.md)
+- [Tera Termをインストールしよう](./teraterm_install/README.md)
+- [PacketTracerをインストールしよう](./packettracer_install/README.md)
