@@ -38,4 +38,4 @@
   - Draw.io Integration プラグインを使用。
 - [virtual_boxをインストールしよう](virtual_box_install/README.md)
 
-- [Githubを導入しよう](github_install/README.md)
+- [Githubを導入しよう](git_install/README.md)
