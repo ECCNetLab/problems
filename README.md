@@ -2,7 +2,21 @@
 
 ネットワーク研究会で使用する問題集。
 
+## Environment - 環境構築
+
+**ネットワーク編**
+
+- [Tera Termをインストールしよう](teraterm_install/README.md)
+- [PacketTracerをインストールしよう](packettracer_install/README.md)
+
+**サーバ編**
+
+- [Virtual Boxをインストールしよう](virtual_box_install/README.md)
+
+
 ## Basic - 基礎
+
+**ネットワーク編**
 
 * [スタティックルーティングをしてみよう](basic_routing01/README.md)
 * [ダイナミックルーティングをしてみよう](basic_routing02/README.md)
@@ -12,6 +26,9 @@
 * [VRRPをしてみよう](basic_vrrp01/README.md)
 * [NATをしてみよう](basic_nat01/README.md)
 * [ACLをしてみよう](basic_acl01/README.md)
+
+**サーバ編**
+
 * [LAMPを構築してみよう](basic_server01/README.md)
 * [LAMPをカスタムしてみよう](basic_server02/README.md)
 
@@ -23,21 +40,9 @@
 
 ## Problem - 問題集
 
-雑多な問題を置いてます。</br>※ ★は難易度(Difficult)です。
-  例★★☆☆☆ = Level 2
-
-* [NAT 問題（★★☆☆☆）](nat/README.md)
-
-
-
-  
-  
-
+* [NAT 問題（★★☆☆☆）](nat/README.md) 
 
 ### 編集環境
 
 - VSCode
   - Draw.io Integration プラグインを使用。
-- [virtual_boxをインストールしよう](virtual_box_install/README.md)
-- [Tera Termをインストールしよう](./teraterm_install/README.md)
-- [PacketTracerをインストールしよう](./packettracer_install/README.md)
