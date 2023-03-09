@@ -7,13 +7,13 @@
 
 ## Windows
 1. まず,[Gitをインストール](https://git-scm.com/download/win)する 
--   ![](fig/dl_link.drawio.svg)
+ ![](fig/dl_link.drawio.svg)
 2. 64ビットをインストールしてください
 3. ダウンロードした,installerを実行してください
 4. 実行後 , next → next → ここでとまる
 - ![](fig/bash.drawio.svg)
-5. 一番下の`(NEW!)Add a git Bash Profile to Windows Terminal`のチェックボックスにチェックを入れてください(チェックが入っていないと`Git Bash`が使えないので注意してください)
-6. 以降は全部`next`を押して、`install`を押してください
+1. 一番下の`(NEW!)Add a git Bash Profile to Windows Terminal`のチェックボックスにチェックを入れてください(チェックが入っていないと`Git Bash`が使えないので注意してください)
+2. 以降は全部`next`を押して、`install`を押してください
 
 ### Git bash profile
 1. Windowsメニューから`Git`のフォルダをクッリク,その中の`Git Bash`をクリック
