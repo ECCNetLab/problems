@@ -35,8 +35,10 @@
 2. `git config --global user.name "自分だとわかる名前を入れてください"`を打って`Git`にユーザー名を登録します
 `Git`にユーザー名を登録しておくことで、コミット時のユーザ名を自動で登録してくれます
    - *例* `git config --global user.name "Yoshiki"`
+   - *確認*`git onfig --global user.name`を叩いて登録したユーザー名が表示されればOKです
 1. `git config --global user.email "自分のメールアドレス入力してください"`を打って`Git`にメールアドレスを登録します
    - *例* `git config --global user.email "wtfWasThat@gmail.com"`
+   - *確認*`git config --global user.email`を叩いて登録したメールアドレスが表示されればOKです
 2. 登録確認のために`git config --global --list`を打って確認してください,登録した内容が表示されればOKです
 
 
