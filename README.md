@@ -13,6 +13,10 @@
 
 - [Virtual Boxをインストールしよう](virtual_box_install/README.md)
 
+**Git編**
+
+- [Gitをインストールしよう](git_install/README.md)
+
 
 ## Basic - 基礎
 
@@ -40,7 +44,10 @@
 
 ## Problem - 問題集
 
+雑多な問題を置いてます。</br>※ ★は難易度(Difficult)です。
+  例★★☆☆☆ = Level 2
 * [NAT 問題（★★☆☆☆）](nat/README.md) 
+
 
 ### 編集環境
 
